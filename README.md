@@ -1,0 +1,1 @@
+# practive-git-init-for-an-empty-project
